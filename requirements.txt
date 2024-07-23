@@ -1,8 +1,8 @@
-pandas==1.4.3
+pandas
 numpy
-matplotlib==3.5.3
-seaborn==0.11.2
-tensorflow==2.5.1
-streamlit==1.23.1
-mftool==2.6
-transformers==4.28.1
+matplotlib
+seaborn
+tensorflow
+streamlit
+mftool
+transformers
